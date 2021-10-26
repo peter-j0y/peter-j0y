@@ -1,4 +1,4 @@
-### 안녕하세요 신승민입니다
+### 안녕하세요 신승민입니다🙂
 
 <!--
 **Seungmin-develop/Seungmin-develop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
